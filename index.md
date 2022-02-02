@@ -6,6 +6,7 @@
 
 [Project 1 Title]
 
+"/images/comingsoon.jpg?raw=true"
 
 ---
 [Project 2 Title]
