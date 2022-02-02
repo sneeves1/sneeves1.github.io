@@ -6,8 +6,7 @@
 
 [Project 1 Title]
 
-"/images/comingsoon.jpg?raw=true"
-
+![actual content will be added throughout semester](/images/comingsoon.jpg)
 ---
 [Project 2 Title]
 
