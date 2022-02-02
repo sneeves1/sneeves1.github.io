@@ -10,9 +10,11 @@
 ---
 [Project 2 Title]
 
+![actual content will be added throughout semester](/images/comingsoon.jpg)
 ---
 [Project 3 Title]
 
+![actual content will be added throughout semester](/images/comingsoon.jpg)
 ---
 
 ### Category Name 2
