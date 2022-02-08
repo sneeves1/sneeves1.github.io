@@ -2,8 +2,7 @@ title: Sarah Neeves # your name (or website title) here
 logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br>Geography and Envrionmental Systems Major, Class of 2022<br>
-  <br>GIScience Certificate<br>
+  <br>Geography and Envrionmental Systems Major, Class of 2022<br> <br>GIScience Certificate<br>
 
   Second description 
  <br>New to Github and trying to figure it out lol<br>
