@@ -4,26 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title]
-
-![actual content will be added throughout semester](/images/comingsoon.jpg)
+[QGIS Practice](/pdf/Neeves_Lab1.pdf)
+This is the first lab of the semester. More content will be added as I create more content and learn the inner workings of GitHub throughout the semester. 
 ---
-[Project 2 Title]
-
-![actual content will be added throughout semester](/images/comingsoon.jpg)
+[Project 2 Title](/images/comingsoon.jpg)
+actual content will be added throughout semester
 ---
-[Project 3 Title]
-
-![actual content will be added throughout semester](/images/comingsoon.jpg)
+[Project 3 Title](/images/comingsoon.jpg)
+actual content will be added throughout semester
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
