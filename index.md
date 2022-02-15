@@ -3,7 +3,7 @@
 ---
 ### [QGIS Practice](/pro/Neeves_Lab1.pdf)
 Introduction work to QGIS.
-[<img src="alaska.png?raw=true"/>](/images/alaska.png) 
+[<img src="alaska.png?raw=true"/>]
 
 
 ---
