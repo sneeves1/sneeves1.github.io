@@ -3,7 +3,7 @@
 ---
 ### [QGIS Practice](/pro/Neeves_Lab1.pdf)
 Itroduction work to QGIS.
-[<img src="project_probation/LOI_Median_Income_with_Redlining.png?raw=true"/>](/project_probation/index) 
+[<img src="alaska.png?raw=true"/>](/pro/Neeves_Lab1.pdf) 
 ---
 [Project 2 Title](/images/comingsoon.jpg)
 actual content will be added throughout semester
