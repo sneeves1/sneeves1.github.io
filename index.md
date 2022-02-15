@@ -1,11 +1,9 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
-
-[QGIS Practice](/pdf/Neeves_Lab1.pdf)
-This is the first lab of the semester. More content will be added as I create more content and learn the inner workings of GitHub throughout the semester. 
+### [QGIS Practice](/pro/Neeves_Lab1.pdf)
+Itroduction work to QGIS.
+[<img src="project_probation/LOI_Median_Income_with_Redlining.png?raw=true"/>](/project_probation/index) 
 ---
 [Project 2 Title](/images/comingsoon.jpg)
 actual content will be added throughout semester
