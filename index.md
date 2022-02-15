@@ -2,8 +2,8 @@
 
 ---
 ### [QGIS Practice](/pro/Neeves_Lab1.pdf)
-Introduction work to QGIS.
-[<img src="alaska.png?raw=true"/>]
+Introduction work to QGIS. Click the title to view maps.
+
 
 
 ---
