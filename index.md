@@ -3,13 +3,18 @@
 ---
 ### [QGIS Practice](/pro/Neeves_Lab1.pdf)
 Introduction work to QGIS.
-[<img src="alaska.png?raw=true"/>](/pro/Neeves_Lab1.pdf) 
+[<img src="alaska.png?raw=true"/>](/images/alaska.png) 
 ---
-[Project 2 Title](/images/comingsoon.jpg)
+
+
+### [Project 2 Title](/images/comingsoon.jpg)
 actual content will be added throughout semester
+[<img src="comingsoon.jpg?raw=true"/>](/images/comingsoon.jpg)
 ---
-[Project 3 Title](/images/comingsoon.jpg)
+
+### [Project 3 Title](/images/comingsoon.jpg)
 actual content will be added throughout semester
+[<img src="comingsoon.jpg?raw=true"/>](/images/comingsoon.jpg)
 ---
 
 
