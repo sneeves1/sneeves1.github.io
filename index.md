@@ -7,9 +7,9 @@ Introduction work to QGIS. Click the title to view maps.
 
 
 ---
-### [Project 2 Title](/images/comingsoon.jpg)
+### [Project 2 Title](/381Project/)
 actual content will be added throughout semester
-<img src="images/comingsoon.jpg?raw=true"/>
+[<img src="images/comingsoon.jpg?raw=true"/>](/381Project/)
 
 
 ---
