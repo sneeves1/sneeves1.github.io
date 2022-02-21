@@ -10,13 +10,13 @@ Introduction work to QGIS. Click the title to view maps.
 ---
 ### [Project 2 Title](/images/comingsoon.jpg)
 actual content will be added throughout semester
-<img src="comingsoon.jpg?raw=true"/>
+<img src="images/comingsoon.jpg?raw=true"/>
 
 
 ---
 ### [Project 3 Title](/images/comingsoon.jpg)
 actual content will be added throughout semester
-<img src="comingsoon.jpg?raw=true"/>
+<img src="images/comingsoon.jpg?raw=true"/>
 ---
 
 
