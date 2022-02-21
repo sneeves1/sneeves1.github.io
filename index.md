@@ -2,9 +2,8 @@
 
 ---
 ### [QGIS Practice](/pro/)
+[<img src="pro/alaska.png?raw=true"/>](/pro/)
 Introduction work to QGIS. Click the title to view maps.
-<img src="pro/alaska.png?raw=true"/>
-
 
 
 ---
