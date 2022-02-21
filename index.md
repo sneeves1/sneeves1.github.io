@@ -1,9 +1,9 @@
 ## Portfolio
 
 ---
-### [QGIS Practice]
+### [QGIS Practice](/pro/Neeves_Lab1.pdf)
 Introduction work to QGIS. Click the title to view maps.
-<img src="alaska.png?raw=true"/>(/pro/Neeves_Lab1.pdf)
+<img src="alaska.png?raw=true"/>
 
 
 
