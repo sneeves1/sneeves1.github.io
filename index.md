@@ -7,7 +7,7 @@ Introduction work to QGIS. Click the title to view maps.
 
 
 ---
-### [Remote Sensing Final Project](/381Project/)
+### [Measuring the Efficacy of Government Conservation Efforts on Forest Cover and Health in Protected Areas of the Amazon Rainforest](/381Project/)
 actual content will be added throughout semester
 [<img src="images/comingsoon.jpg?raw=true"/>](/381Project/)
 
