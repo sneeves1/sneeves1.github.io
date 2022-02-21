@@ -3,7 +3,7 @@
 ---
 ### [QGIS Practice](/pro/Neeves_Lab1.pdf)
 Introduction work to QGIS. Click the title to view maps.
-<img src="alaska.png?raw=true"/>
+<img src="pro/alaska.png?raw=true"/>
 
 
 
