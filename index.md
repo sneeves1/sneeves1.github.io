@@ -3,13 +3,13 @@
 ---
 ### [QGIS Practice](/pro/)
 [<img src="pro/alaska.png?raw=true"/>](/pro/)
-Introduction work to QGIS. Click the title to view maps.
+Introduction work to QGIS. Click the title or map to read description.
 
 
 ---
 ### [Measuring the Efficacy of Government Conservation Efforts on Forest Cover and Health in Protected Areas of the Amazon Rainforest](/381Project/)
 [<img src="381Project/sdc.png?raw=true"/>](/381Project/)
-actual content will be added throughout semester
+Description will be added once full project is uploaded. Stay tuned :)
 
 ---
 ### [Project 3 Title](/images/comingsoon.jpg)
