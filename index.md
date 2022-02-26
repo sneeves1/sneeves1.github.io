@@ -12,9 +12,10 @@ Introduction work to QGIS. Click the title or map to read description.
 Description will be added once full project is uploaded. Stay tuned :)
 
 ---
-### [Project 3 Title](/images/comingsoon.jpg)
-actual content will be added throughout semester
-<img src="images/comingsoon.jpg?raw=true"/>
+### [Project 3 Title]
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iik25wqIuFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 ---
 
 
