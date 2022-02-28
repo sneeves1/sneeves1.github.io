@@ -2,7 +2,7 @@
 
 ---
 ### [QGIS Practice](/pro/)
-[<img src="pro/canadianpandt.png?raw=true"/>](/pro/)
+[<img src="pro/householdinternet.pdf?raw=true"/>](/pro/)
 Introduction work to QGIS. Click the title or map to read description.
 
 
