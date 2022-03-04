@@ -1,5 +1,5 @@
 ## Project 1: Introduction to QGIS and Inkscape
 
-**Project description:** This map was the first ever map made using QGIS and Inkscape. This map is simple shapefile of Canadian Provinces and Territories used to make a basic map to practice adding labels in Inkscape. Simple map was created, and was imported to Inkscape as an .svg to add add labels to help better my understanding of Inkscape.
+**Description:** This map was the first ever map made using QGIS. Data was acquired through https://bniajfi.org/ to find data on the percent of households in BAltimore City without internet at home. In QGIS, I used the data to show a simple time series from 2017 to 2019 to show changes in the percent of households without internet. 
 
 
