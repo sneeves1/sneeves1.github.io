@@ -1,1 +1,1 @@
-[<img src="project1_486/haha.gif?raw=true"/>](/project1_486/)
+[<img src="project1_486/haha.gif?raw=true"/>]
