@@ -1,1 +1,1 @@
-Haha idk what I'm doing lol
+[<img src="project1_486/haha.gif?raw=true"/>](/project1_486/)
