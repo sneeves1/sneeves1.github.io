@@ -12,6 +12,11 @@ Introduction work to QGIS. Click the title or map to read description.
 Description will be added once full project is uploaded. Stay tuned :)
 
 ---
+### [First Project in R](/486project1/)
+[<img src="486project1/treesplant.gif?raw=true"/>](/486project1/)
+Introduction work in R. Click the title or map to read description.
+
+---
 ### This Video Lives Rent Free in My Head and Now it Lives Rent Free on My Github
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OhYWNPzBuiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
