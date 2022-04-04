@@ -13,7 +13,7 @@ Description will be added once full project is uploaded. Stay tuned :)
 
 ---
 ### [First Project in R](/project1_486/)
-[<img src="project1_486/treesplant.gif?raw=true"/>](/project1_486/)
+[<img src="project1_486/treesplant.gif?raw=true"/>](/project1_486/treeplntmark.pdf)
 Introduction work in R. Click the title or map to read description.
 
 ---
