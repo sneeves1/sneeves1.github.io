@@ -7,9 +7,9 @@ Introduction work to QGIS. Click the title or map to read description.
 
 
 ---
-### [Measuring the Efficacy of Government Conservation Efforts on Forest Cover and Health in Protected Areas of the Amazon Rainforest](/381Project/)
-[<img src="381Project/sdc.png?raw=true"/>](/381Project/)
-Description will be added once full project is uploaded. Stay tuned :)
+### [Fruit and the City: Measuring the Accuracy and Bias of Public Science](/483trees/)
+[<img src="483trees/NEEVES_EDS22poster.pdf?raw=true"/>](/483trees/)
+
 
 ---
 ### [First Project in R](/project1_486/treeplnt.pdf)
