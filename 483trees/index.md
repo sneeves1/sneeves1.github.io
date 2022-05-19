@@ -9,19 +9,24 @@ For the methods of this study, tree inventories for the 200 largest cities/metro
 <img src="Baltimore_Median.png?raw=true"/> Fig. 1: The left map compares census tract capture rate against the median capture rate city-wide in Baltimore, Maryland. The map on the right displays the percent Black Indiginous People of Color (BIPOC) per census tract. The two maps together show a comparison of capture rate median against BIPOC population percentages.
 
 
+
 <img src="Baltimore_mhhi.png?raw=true"/> Fig. 2: The left map compares census tract capture rate against the median capture rate city-wide in Baltimore, Maryland. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
+
 
 
 <img src="Portland_Median.png?raw=true"/> Fig. 3: The left map compares census tract capture rate against the median capture rate city-wide in Portland, Oregon. The map on the right displays the percent Black Indiginous People of Color (BIPOC) per census tract. The two maps together show a comparison of capture rate median against BIPOC population percentages.
 
 
+
 <img src="Portland_mhhi.png?raw=true"/> Fig. 4: The left map compares census tract capture rate against the median capture rate city-wide in Portland, Oregon. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
+
 
 
 <img src="Philly_Median.png?raw=true"/> Fig. 5: The left map compares census tract capture rate against the median capture rate city-wide in Philadelphia, Pennsylvania. The map on the right displays the percent Black Indiginous People of Color (BIPOC) per census tract. The two maps together show a comparison of capture rate median against BIPOC population percentages.
 
 
-<img src="Philly_mhhi.png?raw=true"/> Fig. 6: The left map compares census tract capture rate against the median capture rate city-wide in Philadelphia, Pennsylvania. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
+
+Fig. 6: The left map compares census tract capture rate against the median capture rate city-wide in Philadelphia, Pennsylvania. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
 
 
 # Conclusion
