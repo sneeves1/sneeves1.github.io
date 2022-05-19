@@ -26,7 +26,7 @@ For the methods of this study, tree inventories for the 200 largest cities/metro
 
 
 
-Fig. 6: The left map compares census tract capture rate against the median capture rate city-wide in Philadelphia, Pennsylvania. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
+<img src="philly_mhhi.png?raw=true"/>Fig. 6: The left map compares census tract capture rate against the median capture rate city-wide in Philadelphia, Pennsylvania. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
 
 
 # Conclusion
