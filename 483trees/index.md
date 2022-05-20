@@ -8,22 +8,22 @@ For the methods of this study, tree inventories for the 200 largest cities/metro
 # Results
 <img src="Baltimore_Median.png?raw=true"/> Fig. 1: The left map compares census tract capture rate against the median capture rate city-wide in Baltimore, Maryland. The map on the right displays the percent Black Indiginous People of Color (BIPOC) per census tract. The two maps together show a comparison of capture rate median against BIPOC population percentages.
 <br><br/>
-<br><br/>
+
 <img src="Baltimore_mhhi.png?raw=true"/> Fig. 2: The left map compares census tract capture rate against the median capture rate city-wide in Baltimore, Maryland. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
 <br><br/>
-<br><br/>
+
 <img src="Portland_Median.png?raw=true"/> Fig. 3: The left map compares census tract capture rate against the median capture rate city-wide in Portland, Oregon. The map on the right displays the percent Black Indiginous People of Color (BIPOC) per census tract. The two maps together show a comparison of capture rate median against BIPOC population percentages.
 <br><br/>
-<br><br/>
+
 <img src="Portland_mhhi.png?raw=true"/> Fig. 4: The left map compares census tract capture rate against the median capture rate city-wide in Portland, Oregon. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
 <br><br/>
-<br><br/>
+
 <img src="Philly_Median.png?raw=true"/> Fig. 5: The left map compares census tract capture rate against the median capture rate city-wide in Philadelphia, Pennsylvania. The map on the right displays the percent Black Indiginous People of Color (BIPOC) per census tract. The two maps together show a comparison of capture rate median against BIPOC population percentages.
 <br><br/>
-<br><br/>
+
 <img src="philly_mhhi.png?raw=true"/>Fig. 6: The left map compares census tract capture rate against the median capture rate city-wide in Philadelphia, Pennsylvania. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
 <br><br/>
-<br><br/>
+
 R markdowns for each city can be found [here.](scripts.md)
 # Conclusion
 After looking at the data, a trend was found that as Falling Fruit capture rate increases per tract percentage-wise, the percentage of Black indigenous POC  populations seems to decrease. Portland has more fruit trees than Baltimore and  there is a great disparity in capture rate between Baltimore and Portland, as Baltimore has not more than about 25.1% capture rate per census while Portland had some census tracts thats capture-rate overestimated the number of fruit trees. While this trend does appear in our findings, these early findings only show a comparison between two cities, so there could also be other circumstantial factors that contribute to the difference in capture rate, which leads into the discussion portion of this poster. One possible factor that could contribute to this disparity is the difference in climates. Portland’s climate may allow for more fruit trees to grow which might contribute to the fact that Portland’s tree count is much higher than Baltimore’s. Another factor that can contribute to the differences in capture rate is that the socio-spatial structure is different for both cities. Maryland has one of the highest median household incomes in the United States. Oregon has a lower median household income relative to Maryland. However, Portland has a higher median household income compared to the rest of Oregon, while Baltimore has a lower median household income compared to the rest of Maryland.
