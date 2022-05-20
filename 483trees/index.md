@@ -79,7 +79,7 @@ R markdowns for each city can be found [here.](scripts.md)
 </tr>
 
 </table>
-Table 1: Table 1 shows the average percent BIPOC popultation for each category shown on the capture rate median map for the cities of Baltimore, MD; Portland, OR; and Philadelphia, PA.
+Table 1: This table shows the average percent BIPOC popultation for each category shown on the capture rate median map for the cities of Baltimore, MD; Portland, OR; and Philadelphia, PA.
 
 <table>
 
@@ -132,7 +132,7 @@ Table 1: Table 1 shows the average percent BIPOC popultation for each category s
 </tr>
 
 </table>
-Table 2: Table 2 shows the average median household income for each category shown on the capture rate median map for the cities of Baltimore, MD; Portland, OR; and Philadelphia, PA.
+Table 2: This table shows the average median household income for each category shown on the capture rate median map for the cities of Baltimore, MD; Portland, OR; and Philadelphia, PA.
 
 # Conclusion
 After looking at the data, a trend across the three cities show that areas that have a Falling Fruit capture rate that were higher than the city-wide median capture tend to have a higher median household income, and lower BIPOC population percentages. One exception to this trend is the areas with no fruit tree data in Philadelphia. Both categories had no census data to work with so it can be assumed that no one lives in these census tracts. Along with no data from the census, aerial photography shows that these areas with no fruit tree data also happen to be areas for industrial purposes, so it would be safe to assume that no one lives in these areas. Another exception to this trend is the No fruit Trees average for Portland. There was one census tract that had no fruit trees collected by the Portland city government, so there was no data to go off of. There were Falling Fruit entries in this area, but no fruit tree inventory data. This could mean that this census tract is an area that has not been recorded by the city government of Portland, and will most likely skew the data table in this way. 
