@@ -1,7 +1,7 @@
 ## Fruit and the City: City Markdowns
 
 ---
-These three scripts are data preparation and manipulation scripts:
+Scripts include a step-by-step process of data collection and management. Click the city you would like to view and take a look. Hope you enjoy :)
 
 [Baltimore, MD](baltimore_markdown1.html)
 
