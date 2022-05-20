@@ -1,7 +1,7 @@
 # Fruit and the City: Measuring the Accuracy of Public Science
 
 # Abstract
-Participatory science, also known as citizen science, is defined as the collection and analysis of data by members of the general public. Participatory science can be a valued method for researchers as it allows for mass data collection. Without participatory science, data may be overly expensive or impossible to obtain. Participatory science data collection can produce biased or inaccurate data if participants are not educated in the subject matter, there is not a wide variety of participants, or if there is not sufficient spatial coverage of data. This presentation analyzes the spatial patterns of the data to detect spatial biases along lines of income and race/ethnicity. Early findings of this exploratory study has produced metrics to analyze bias of the Falling Fruit database across Baltimore, Maryland and Portland, Oregon. Falling Fruit is a non-profit organization containing an interactive tree inventory of urban fruit trees. The aim of this project is to promote foraging in urban environments. 
+Participatory science, also known as citizen science, is defined as the collection and analysis of data by members of the general public. Participatory science can be a valued method for researchers as it allows for mass data collection. Without participatory science, data may be overly expensive or impossible to obtain. Participatory science data collection can produce biased or inaccurate data if participants are not educated in the subject matter, there is not a wide variety of participants, or if there is not sufficient spatial coverage of data. This presentation analyzes the spatial patterns of the data to detect spatial biases along lines of income and race/ethnicity. Early findings of this exploratory study has produced metrics to analyze bias of the Falling Fruit database across Baltimore, Maryland, Portland, Oregon, and Philadelphia, PA. Falling Fruit is a non-profit organization containing an interactive tree inventory of urban fruit trees. The aim of this project is to promote foraging in urban environments. 
 
 # Methods
 For the methods of this study, tree inventories for the 200 largest cities/metropolitan areas within the United States were researched and collected if data was available. Only about 15-20 city tree inventories were collected. Tree inventories are databases created typically by city governments to keep record of trees around their cities. Inventories typically keep records of tree attributes such as species, size, conditions, and where the can be found within the city. The entire Falling Fruit database was collected as well. After tree data was collected, census data was also collected through the use of RStudio and a package made for R called tidycensus and tigris. Data collected from the census included retrieving shapefiles for: city boundaries, county census tracts (which were later clipped to the extent of the city boundaries), water features, and census tract data for median household income, and race/ethnicity in 2020. I then took the city tree inventories and filtered out tree species that produced edible fruit to create a new inventory of edible fruit tree species to compare to the Falling Fruit inventory for each city. The percentage of capture rate of Falling Fruit was calculated by dividing the Falling Fruit data by the city fruit tree inventory. I then took the capture rate and took the statistics of the capture rate of falling fruit trees to gather the median city wide. I made a new column that labeled the tracts as above or below the city median, and visualized the capture rate median against BIPOC percent and median household income.
@@ -26,7 +26,117 @@ R markdowns for each city can be found [here.](scripts.md)
 
 <img src="philly_mhhi.png?raw=true"/>Fig. 6: The left map compares census tract capture rate against the median capture rate city-wide in Philadelphia, Pennsylvania. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
 <br><br/>
+<br><br/>
+<table>
 
+<tr>
+
+<th>Above/Below City-Wide Median</th>
+
+<th>Portland BIPOC</th>
+
+<th>Baltimore BIPOC</th>
+
+<th>Philadelphia BIPOC</th>
+
+</tr>
+
+<tr>
+
+<td>No Fruit Trees</td>
+
+<td>12.0%</td>
+
+<td>96.2%</td>
+
+<td>0%</td>
+
+</tr>
+
+<tr>
+
+<td>Below</td>
+
+<td>32.8%/td>
+
+<td>80.7%</td>
+  
+<td>65.0%</td>
+
+</tr>
+
+<tr>
+
+<td>Above</td>
+
+<td>25.6%</td>
+
+<td>57.4%</td>
+
+<td>59.4%</td>
+
+</tr>
+
+</table>
+
+
+<tr>
+
+<th>Above/Below City-Wide Median</th>
+
+<th>Portland BIPOC</th>
+
+<th>Baltimore BIPOC</th>
+
+<th>Philadelphia BIPOC</th>
+
+</tr>
+
+<tr>
+
+<td>No Fruit Trees</td>
+
+<td>$105,889</td>
+
+<td>$37,591</td>
+
+<td>$0</td>
+
+</tr>
+
+<tr>
+
+<td>Below</td>
+
+<td>$72,956</td>
+
+<td>$46,884</td>
+
+<td>$43,025</td>
+
+</tr>
+
+<tr>
+
+<td>Above</td>
+
+<td>$82,496</td>
+
+<td>$70,480</td>
+
+<td>$60,431</td>
+
+</tr>
+
+</table>
+
+table, th, td {
+
+border: 1px solid black;
+
+border-collapse: collapse;
+
+}
 # Conclusion
-After looking at the data, a trend was found that as Falling Fruit capture rate increases per tract percentage-wise, the percentage of Black indigenous POC  populations seems to decrease. Portland has more fruit trees than Baltimore and  there is a great disparity in capture rate between Baltimore and Portland, as Baltimore has not more than about 25.1% capture rate per census while Portland had some census tracts thats capture-rate overestimated the number of fruit trees. While this trend does appear in our findings, these early findings only show a comparison between two cities, so there could also be other circumstantial factors that contribute to the difference in capture rate, which leads into the discussion portion of this poster. One possible factor that could contribute to this disparity is the difference in climates. Portland’s climate may allow for more fruit trees to grow which might contribute to the fact that Portland’s tree count is much higher than Baltimore’s. Another factor that can contribute to the differences in capture rate is that the socio-spatial structure is different for both cities. Maryland has one of the highest median household incomes in the United States. Oregon has a lower median household income relative to Maryland. However, Portland has a higher median household income compared to the rest of Oregon, while Baltimore has a lower median household income compared to the rest of Maryland.
+After looking at the data, a trend was found that as Falling Fruit capture rate increases per tract percentage-wise, the percentage of Black indigenous People of Color (BIPOC) populations seems to decrease. Portland has more fruit trees than Baltimore and  there is a great disparity in capture rate between Baltimore and Portland, as Baltimore has not more than about 25.1% capture rate per census while Portland had some census tracts thats capture-rate overestimated the number of fruit trees. While this trend does appear in our findings, these early findings only show a comparison between two cities, so there could also be other circumstantial factors that contribute to the difference in capture rate, which leads into the discussion portion of this poster. One possible factor that could contribute to this disparity is the difference in climates. Portland’s climate may allow for more fruit trees to grow which might contribute to the fact that Portland’s tree count is much higher than Baltimore’s. Another factor that can contribute to the differences in capture rate is that the socio-spatial structure is different for both cities. Maryland has one of the highest median household incomes in the United States. Oregon has a lower median household income relative to Maryland. However, Portland has a higher median household income compared to the rest of Oregon, while Baltimore has a lower median household income compared to the rest of Maryland.
 Because this study is an ongoing study and this presentation only displays early findings, the next steps are to look at data from other cities that fall within the largest 200 cities in the United States. So far, tree inventories from about 15 other cities have been collected. One thing that will be changed in this study going further is normalizing the data by looking at tree density per census tract instead of the city-wide count.
