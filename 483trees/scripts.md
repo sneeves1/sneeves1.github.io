@@ -3,8 +3,8 @@
 ---
 These three scripts are data preparation and manipulation scripts:
 
-[Baltimore, MD]
+[Baltimore, MD](baltimore_markdown1.html)
 
-[Portland, OR]
+[Portland, OR](portland_markdown1.html)
 
-[Philadelphia, PA]
+[Philadelphia, PA](philadelphia_markdown1.html)
