@@ -27,6 +27,7 @@ R markdowns for each city can be found [here.](scripts.md)
 <img src="philly_mhhi.png?raw=true"/>Fig. 6: The left map compares census tract capture rate against the median capture rate city-wide in Philadelphia, Pennsylvania. The map on the right displays the median household income per census tract. The two maps together show a comparison of capture rate median against median household income.
 <br><br/>
 <br><br/>
+
 <table>
 
 <tr>
@@ -57,7 +58,7 @@ R markdowns for each city can be found [here.](scripts.md)
 
 <td>Below</td>
 
-<td>32.8%/td>
+<td>32.8%</td>
 
 <td>80.7%</td>
   
@@ -77,8 +78,8 @@ R markdowns for each city can be found [here.](scripts.md)
 
 </tr>
 
-</table>
 
+</table>
 
 <tr>
 
@@ -130,13 +131,6 @@ R markdowns for each city can be found [here.](scripts.md)
 
 </table>
 
-table, th, td {
-
-border: 1px solid black;
-
-border-collapse: collapse;
-
-}
 # Conclusion
 After looking at the data, a trend was found that as Falling Fruit capture rate increases per tract percentage-wise, the percentage of Black indigenous People of Color (BIPOC) populations seems to decrease. Portland has more fruit trees than Baltimore and  there is a great disparity in capture rate between Baltimore and Portland, as Baltimore has not more than about 25.1% capture rate per census while Portland had some census tracts thats capture-rate overestimated the number of fruit trees. While this trend does appear in our findings, these early findings only show a comparison between two cities, so there could also be other circumstantial factors that contribute to the difference in capture rate, which leads into the discussion portion of this poster. One possible factor that could contribute to this disparity is the difference in climates. Portland’s climate may allow for more fruit trees to grow which might contribute to the fact that Portland’s tree count is much higher than Baltimore’s. Another factor that can contribute to the differences in capture rate is that the socio-spatial structure is different for both cities. Maryland has one of the highest median household incomes in the United States. Oregon has a lower median household income relative to Maryland. However, Portland has a higher median household income compared to the rest of Oregon, while Baltimore has a lower median household income compared to the rest of Maryland.
 Because this study is an ongoing study and this presentation only displays early findings, the next steps are to look at data from other cities that fall within the largest 200 cities in the United States. So far, tree inventories from about 15 other cities have been collected. One thing that will be changed in this study going further is normalizing the data by looking at tree density per census tract instead of the city-wide count.
