@@ -81,6 +81,8 @@ R markdowns for each city can be found [here.](scripts.md)
 
 </table>
 
+<table>
+
 <tr>
 
 <th>Above/Below City-Wide Median</th>
