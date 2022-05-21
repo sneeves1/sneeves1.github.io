@@ -13,7 +13,7 @@
 ---
 ### [QGIS Practice](/pro/)
 [<img src="pro/internet.png?raw=true"/>](/pro/)
-Introduction work to QGIS. Click the title or map to read description.
+Introductory work to QGIS. Click the title or map to read description.
 
 ---
 ### [First Project in R](/project1_486/treemarkdown.html)
