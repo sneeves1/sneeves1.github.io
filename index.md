@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-### [Can Money Really Buy Happiness?]
+### Can Money Really Buy Happiness?
 [<img src="pro/mental.png?raw=true"/>](/pro/)
 
 
