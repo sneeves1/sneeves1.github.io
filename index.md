@@ -2,7 +2,7 @@
 
 ---
 ### Can Money Really Buy Happiness?
-[<img src="pro/mental.png?raw=true"/>](/pro/)
+[<img src="mentalhealth/NEEVES383final.png?raw=true"/>](/mentalhealth/)
 
 
 ---
