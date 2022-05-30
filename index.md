@@ -1,14 +1,12 @@
-## Portfolio
+# GIS Portfolio
+---
+## Featured Research Project
+### [Fruit and the City: Measuring the Accuracy and Bias of Public Science](/483trees/)
+[<img src="483trees/fruitslide.jpg?raw=true"/>](/483trees/)
 
 ---
 ### Can Money Really Buy Happiness?
 [<img src="mentalhealth/NEEVES383final.png?raw=true"/>](/mentalhealth/)
-
-
----
-### [Fruit and the City: Measuring the Accuracy and Bias of Public Science](/483trees/)
-[<img src="483trees/fruitslide.jpg?raw=true"/>](/483trees/)
-
 
 ---
 ### [QGIS Practice](/pro/)
