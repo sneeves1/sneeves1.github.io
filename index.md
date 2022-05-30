@@ -1,6 +1,6 @@
 # GIS Portfolio
 ---
-## Featured Research Project
+## Featured Research Project:
 ### [Fruit and the City: Measuring the Accuracy and Bias of Public Science](/483trees/)
 [<img src="483trees/fruitslide.jpg?raw=true"/>](/483trees/)
 
