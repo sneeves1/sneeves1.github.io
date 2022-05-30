@@ -1,5 +1,36 @@
-This project poster involved a process across three different softwares to create. The first step of this project was obtaining data about mental health and factors that relate to mental health. This data was obtained through the CDC’s 500 Cities & PLACES Data Portal. The data collected from the CDC includes: “500 Cities: Sleeping less than 7 hours among adults aged >=18 years”, “500 Cities: Mental health not good for >=14 days among adults aged >=18 years”, and “500 Cities: No leisure-time physical activity among adults aged >=18 years”. The three data tables were downloaded in a csv format and were edited in Excel so that only the data value, city name and tract FIPS columns were present. These columns were the only relevant data needed for this project, and since all four tables would eventually be joined together with census data, organizing the tables in this way kept the data organized later  in the project. The next step was to call in census data for median household income at the census tract level for Baltimore City. After, the three data tables were brought into RStudio to filter the data further to just tracts within Baltimore, convert the Data_Value field into a numeric field, and to convert the Data_Value to a percentage. All four tables were combined to form one table. The last step within RStudio was to make data fields to assess the risk of bad mental health. This was done by taking the 60th, 70th, 80th, and 90th percentile of the sleep data, the leisure data, and the median household income data. The percentiles were then classified with a number value to indicate severity. Once all three fields were created, a new field was created to add all of the severity numbers to assess risk.
+# Overview
+According to the National Institute of Mental Health, “Mental illnesses are common in the United States. Nearly one in five U.S. adults live with a mental illness (52.9 million in 2020). Mental illnesses include many different conditions that vary in degree of severity, ranging from mild to moderate to severe.” While those who suffer from a mental illness should seek medical
+attention, there are a few practices to improve symptoms. These practices include exercising, eating a healthy diet, and being physically active. But what about money? Can making more money affect mental health? This project aims to look at the spatial distribution of adults over 18 who experience 14 or more bad mental health days, and compare it with: data on adults who sleep less than 7 hours, data on adults who report having no time for leisure activity, and lastly data on median household income. This project also aims to assess potential areas that may be at risk of experiencing poor mental health days. This project looks at data for Baltimore, Maryland.
+<br><br/>
 
-Once all of the data was organized and created, the data table was then written into a geopackage and brought into QGIS, the second software used for this project. Each set of data (sleep data, leisure data, mental health data, and median household income data, and risk assessment data) was visualized in QGIS and then exported as an svg to be used in Inkscape.
+# Maps
+## Percent Population Reporting 14 or More Bad Mental Health Days
+<img src="mentalhealth.png?raw=true"/> 
+<br><br/>
 
-This project requires making an A1 size poster, so In Inkscape, an A1 poster size was chosen and was chosen in a landscape orientation. The reason for choosing a landscape orientation was so that it would be easier to visualize the maps that were made in QGIS. The color scheme of the maps use a blue scale since blue and gray are used to symbolize sadness or depression, but using a gray color scale did not look nice. The risk assessment map uses red to make this map stand out and show areas where local residents are more likely to experience days with poor mental health. I wanted this map in particular to stand out because it takes information from all of the surrounding maps to tie the maps together. The poster uses two shades of gray as the background so as to stick to the blue and gray theme, and since blue was already used for the maps, it seemed appropriate to use gray for the poster. The poster has a light gray and text areas have a dark gray background to help the text stand out a bit. The titles for the maps are a light yellow, and this was chosen by accident. To delineate the text boxes from the title boxes, I chose a random color. Yellow is my favorite color so I chose a light yellow, and it just happened to look good with the rest of the poster, so I stuck with it. Lastly for the font, I chose Palatino Linotype because it looks official but not boring, and looks crisp. I wanted this poster to be an informative poster, and the font fit.
+## Percent Population Reporting Sleeping Less Than 7 Hours a Night
+<img src="sleep.png?raw=true"/>
+<br><br/>
+
+## Percent Population Reporting No Time for Leisure/Physical Activity
+<img src="leisure.png?raw=true"/>
+<br><br/>
+
+## Median Household Income By Census Tract
+<img src="mhhi.png?raw=true"/>
+<br><br/>
+
+## Level of Risk for Bad Mental Health Days Based on Sleep, Leisure, and Income Reports
+<img src="risk.png?raw=true"/>
+<br><br/>
+
+# Conclusion and Findings
+As the data shows, there is a strong correlation between adults who have had 14 or more bad mental health days compared toreports of lack of sleep, and exercise. Median household income also correlates with poor mental health days. When looking at the median household income map and the 14 or more bad mental health day maps, you can see that two maps are almost the inverse of each other. This shows that areas that make less money, also have more bad mental health days. The risk map shows that areas who are already experiencing the highest amount of bad mental health days are also at higher risk of experiencing bad mental health days.
+
+# Citations
+1. U.S. Department of Health and Human Services. (n.d.). Mental illness. National Institute of Mental Health. Retrieved May 19, 2022, from https://www.nimh.nih.gov/health/statistics/mentalillness#:~:text=Mental%20illnesses%20are%20common%20in,mild%20to%20moderate%20to%20severe. 
+<br><br/>
+Data collected at:
+3. Centers for Disease Control and Prevention. (n.d.). 500 cities: Mental health not good for >=14 days among adults aged >=18 years. Centers for Disease Control and Prevention. Retrieved May 16, 2022, from https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Mental-health-not-good-for-14-days-amon/i2ek-k3pa
+3. Centers for Disease Control and Prevention. (n.d.). 500 cities: No leisure-time physical activity among adults aged >=18 years. Centers for Disease Control and Prevention. Retrieved May 16, 2022, from https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-No-leisure-time-physical-activity-among/axqz-rkkp
+4. Centers for Disease Control and Prevention. (n.d.). 500 cities: Sleeping less than 7 hours among adults aged >=18 years. Centers for Disease Control and Prevention. Retrieved May 16, 2022, from https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Sleeping-less-than-7-hours-among-adults/eqbn-8mpz
