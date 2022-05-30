@@ -28,7 +28,7 @@ attention, there are a few practices to improve symptoms. These practices includ
 As the data shows, there is a strong correlation between adults who have had 14 or more bad mental health days compared toreports of lack of sleep, and exercise. Median household income also correlates with poor mental health days. When looking at the median household income map and the 14 or more bad mental health day maps, you can see that two maps are almost the inverse of each other. This shows that areas that make less money, also have more bad mental health days. The risk map shows that areas who are already experiencing the highest amount of bad mental health days are also at higher risk of experiencing bad mental health days.
 
 # Citations
-1. U.S. Department of Health and Human Services. (n.d.). Mental illness. National Institute of Mental Health. Retrieved May 19, 2022, from https://www.nimh.nih.gov/health/statistics/mentalillness#:~:text=Mental%20illnesses%20are%20common%20in,mild%20to%20moderate%20to%20severe. 
+1. U.S. Department of Health and Human Services. (n.d.). Mental illness. National Institute of Mental Health. Retrieved May 19, 2022, from https://www.nimh.nih.gov/health/statistics/mental-illness#:~:text=Mental%20illnesses%20are%20common%20in,mild%20to%20moderate%20to%20severe
 <br><br/>
 Data collected at:
 3. Centers for Disease Control and Prevention. (n.d.). 500 cities: Mental health not good for >=14 days among adults aged >=18 years. Centers for Disease Control and Prevention. Retrieved May 16, 2022, from https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Mental-health-not-good-for-14-days-amon/i2ek-k3pa
