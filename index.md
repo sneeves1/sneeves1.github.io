@@ -5,15 +5,16 @@
 [<img src="483trees/fruitslide.jpg?raw=true"/>](/483trees/)
 
 ---
+## Other Projects:
 ### Can Money Really Buy Happiness?
 [<img src="mentalhealth/NEEVES383final.png?raw=true"/>](/mentalhealth/)
 
----
+
 ### [QGIS Practice](/pro/)
 [<img src="pro/internet.png?raw=true"/>](/pro/)
 Introductory work to QGIS. Click the title or map to read description.
 
----
+
 ### [First Project in R](/project1_486/treemarkdown.html)
 [<img src="project1_486/treesplant.gif?raw=true"/>](/project1_486/treemarkdown.html)
 Introductory work in R. Click the gif or link to see the R markdown of this project.
