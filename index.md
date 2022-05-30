@@ -19,15 +19,5 @@ Introductory work to QGIS. Click the title or map to read description.
 Introductory work in R. Click the gif or link to see the R markdown of this project.
 
 ---
-
----
-
-
----
-
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
