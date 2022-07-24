@@ -11,7 +11,7 @@
 
 
 ### [QGIS Practice](/pro/)
-[<img src="pro/internet.png?raw=true"/>](/pro/)
+[<img src="pro/internet.svg?raw=true"/>](/pro/)
 Introductory work to QGIS. Click the title or map to read description.
 
 
