@@ -1,7 +1,7 @@
 # GIS Portfolio
 ---
 ## Featured Research Project:
-### [River's Edge Trails](/rivers_edge/draf1.png)
+### [River's Edge Trails](/rivers_edge/)
 [<img src="rivers_edge/draft1.png?raw=true"/>](/rivers_edge/)
 
 
