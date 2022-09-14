@@ -1,6 +1,10 @@
 # GIS Portfolio
 ---
 ## Featured Research Project:
+### [River's Edge Trails](/rivers_edge/draf1.png)
+[<img src="rivers_edge/draft1.png?raw=true"/>](/rivers_edge/)
+
+
 ### [Fruit and the City: Measuring the Accuracy and Bias of Public Science](/483trees/)
 [<img src="483trees/fruitslide.jpg?raw=true"/>](/483trees/)
 
