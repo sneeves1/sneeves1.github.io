@@ -3,11 +3,12 @@
 ## Featured Research Project:
 ### [River's Edge Trails](/rivers_edge/)
 [<img src="rivers_edge/final.png?raw=true"/>](/rivers_edge/)
-This is an early draft of my project to map the River's Edge Trails in Brunswick, MD. Final draft and full description coming soon.
+Click map for more details
 
 
 ### [Fruit and the City: Measuring the Accuracy and Bias of Public Science](/483trees/)
 [<img src="483trees/fruitslide.jpg?raw=true"/>](/483trees/)
+Click map for more details
 
 ---
 ## Other Projects:
