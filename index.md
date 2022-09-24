@@ -2,7 +2,7 @@
 ---
 ## Featured Research Project:
 ### [River's Edge Trails](/rivers_edge/)
-[<img src="rivers_edge/riversedgesmall.png?raw=true"/>](/rivers_edge/)
+[<img src="rivers_edge/riversedge1.png?raw=true"/>](/rivers_edge/)
 Click map for more details
 
 
