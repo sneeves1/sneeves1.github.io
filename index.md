@@ -1,6 +1,11 @@
 # GIS Portfolio
 ---
 ## Featured Research Project:
+### [Windy Ridge Trails](/wrt/)
+[<img src="wrt/final_toebeansandteefs2.pdf?raw=true"/>](/wrt/)
+Personal project I completed for the Windy Ridge Trails in Mount Airy, MD. Click map for more details
+
+
 ### [River's Edge Trails](/rivers_edge/)
 [<img src="rivers_edge/riversedge1.png?raw=true"/>](/rivers_edge/)
 Volunteer project I completed for the River's Edge Trails in Brunswick, MD. Click map for more details
