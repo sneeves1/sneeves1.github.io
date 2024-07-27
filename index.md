@@ -7,7 +7,7 @@ Personal project I completed for the Windy Ridge Trails in Mount Airy, MD. Click
 
 
 ### [River's Edge Trails](/rivers_edge/)
-[<img src="rivers_edge/riversedge1.png?raw=true"/>](/rivers_edge/)
+[<img src="rivers_edge/final2023.png?raw=true"/>](/rivers_edge/)
 Volunteer project I completed for the River's Edge Trails in Brunswick, MD. Click map for more details
 
 
