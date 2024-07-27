@@ -2,7 +2,7 @@
 ---
 ## Featured Research Project:
 ### [Windy Ridge Trails](/wrt/)
-[<img src="wrt/final_toebeansandteefs2.pdf?raw=true"/>](/wrt/)
+[<img src="wrt/wrt.png?raw=true"/>](/wrt/)
 Personal project I completed for the Windy Ridge Trails in Mount Airy, MD. Click map for more details
 
 
